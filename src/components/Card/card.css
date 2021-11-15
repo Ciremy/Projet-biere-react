@@ -1,3 +1,7 @@
 .muiCard {
-    max-width: 25%;
+  max-width: 20%;
+  flex: auto;
+  flex-wrap: wrap;
+  margin: 2.5%;
+  display: flex;
 }

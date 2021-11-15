@@ -12,20 +12,17 @@ function Card() {
         <CardMedia
           component="img"
           height="140"
-          image="/static/images/cards/contemplative-reptile.jpg"
-          alt="green iguana"
+          image="https://media.gqmagazine.fr/photos/5f7ddd8898c274a8707da089/16:9/w_2560%2Cc_limit/GettyImages-684133728.jpg"
+          alt="beer"
         />
         <CardContent>
-          <p>Lizard</p>
-          <p>
-            Lizards are a widespread group of squamate reptiles, with over 6,000species, ranging
-            across all continents except Antarctica
-          </p>
+          <p>Beer</p>
+          <p>Beer is a good brevage that is usefull to get drunk</p>
         </CardContent>
       </CardActionArea>
       <CardActions>
         <Button size="small" color="primary">
-          Share
+          En savoir plus
         </Button>
       </CardActions>
     </MuiCard>
